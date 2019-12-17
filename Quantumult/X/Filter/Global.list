@@ -294,6 +294,7 @@ DOMAIN-SUFFIX,readmoo.com,PROXY
 DOMAIN-SUFFIX,redbubble.com,PROXY
 DOMAIN-SUFFIX,reddit.com,PROXY
 DOMAIN-SUFFIX,redditmedia.com,PROXY
+DOMAIN-SUFFIX,redd.it,PROXY
 DOMAIN-SUFFIX,resilio.com,PROXY
 DOMAIN-SUFFIX,reuters.com,PROXY
 DOMAIN-SUFFIX,reutersmedia.net,PROXY
@@ -561,3 +562,4 @@ DOMAIN-SUFFIX,x-art.com,PROXY
 DOMAIN-SUFFIX,yimg.com,PROXY
 DOMAIN,api.steampowered.com,PROXY
 DOMAIN,store.steampowered.com,PROXY
+# > Reddit
